@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #111111;
+    padding: 0% 20%;
+    color: #eeeeee;
+}
+
+#post-grid{
+    max-width: 600px;
+}
